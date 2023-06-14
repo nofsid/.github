@@ -8,4 +8,4 @@
 <hr />
 
 ### Reach Us
-<p>Kamu bisa menambahkan repositori atau kontribusi, bisa kontak saya lewat DM Discord @pololer#9640 akan kukasih role member.</p>
+<p>Kamu bisa menambahkan repositori atau kontribusi, bisa kontak saya lewat DM Discord @pololer akan kukasih role member.</p>
